@@ -10,7 +10,9 @@ I created the sounds mathematically; for example, I used sine waves to create a 
 
 # Screenshots
 
-// under construction
+![Sinewave Generator](https://github.com/krobinson1021/Synthesizer/blob/master/Screenshots/sinewave.png)
+![Squarewave Generator](https://github.com/krobinson1021/Synthesizer/blob/master/Screenshots/squarewave.png)
+
 
 # Credits
 - JavaFX: https://openjfx.io/
