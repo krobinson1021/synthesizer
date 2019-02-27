@@ -4,14 +4,16 @@ This is a project I created to model a digital synthesizer. The GUI allows you t
 
 I created the sounds mathematically; for example, I used sine waves to create a soft, smooth tone that could be adjusted in frequency. In contrast, I created a harsh-sounding sawtooth wave and a square wave reminscent of retro video game music.
 
-# Footage
-
-// under construction
 
 # Screenshots
 
 ![Sinewave Generator](https://github.com/krobinson1021/Synthesizer/blob/master/Screenshots/sinewave.png)
 ![Squarewave Generator](https://github.com/krobinson1021/Synthesizer/blob/master/Screenshots/squarewave.png)
+
+
+# Footage
+
+// under construction
 
 
 # Credits
