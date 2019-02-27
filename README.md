@@ -1,6 +1,8 @@
 # Synthesizer
 
-This is a project I created with Java and the JavaFX library to model a digital synthesizer. The GUI allows you to connect different components (sound generators, volume adjusters, filters, etc.) with cables to make unique sounds.
+This is a project I created to model a digital synthesizer. The GUI allows you to connect different components (sound generators, volume adjusters, etc.) with cables to make unique sounds. The goal of the project was to practice Java and become more familiar with the popular JavaFX library, as well as to create a project with strong object-oriented design.
+
+I created the sounds mathematically; for example, I used sine waves to create a soft, smooth tone that could be adjusted in frequency. In contrast, I created a harsh-sounding sawtooth wave and a square wave reminscent of retro video game music.
 
 # Footage
 
